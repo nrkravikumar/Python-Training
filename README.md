@@ -49,5 +49,15 @@
                   -> F9 => Build
                   -> F5 => Execute
   ### 3. IDLE(Integrated Development Learning Environment)(Package of IDE's):
-        -> Temporary Purpose[Checking]-> IDLE
-        -> Ex: print("") -> F5
+  	-> In IDLE we can access in two ways that is for checking the statements and other is file store and executing
+	-> So similar way in command prompt but it executes only the statements because it doesnt have file option in 
+	command prompt.
+	-> In IDLE we can executes in both cases and while in file it shows the output in shell.
+  ### 4. Anaconda(tools pandas,numpy,matplotlib,scipy,jupyter):
+  	-> Here we are going to execute the python programs in Anaconda in that we are preferring Jupyter notebook tool
+	-> Its too lengthy to download anaconda the nprefer to download Jupyter Notebook. To install Jupyter notebook 
+	we have to follow some steps they are:
+	-> pip install jupyter
+	-> After installing the jupyter then we need to search in the search menu so in that we can observe the jupyter 
+	notebook if we click on that then the server will starts automatically and notebook will opens in browser.
+	-> There we can proceed for the coding in jupyter notebook.  
