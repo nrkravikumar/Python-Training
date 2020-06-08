@@ -89,3 +89,18 @@
 	- esc + b => Insert cell below from present cell
 	- esc + dd => To delete present cell
 	- shift + enter => Execute
+# 07-06-2020:
+	- Data types
+  	- Single Variable with single data type value
+	- Multiple varaibles with multiple data type values
+	- Multiple variables with multiple data type values in single line
+	- Multiple variables with single data type value
+	- Type()
+	- Type Casting while printing
+# 08-06-2020:
+	- Operators
+	- Static and Dynamic Execution
+	- Input and output formatting
+	- TypeCasting [int->float in dynamic vice-versa but not for float to int]
+	
+  
