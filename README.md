@@ -102,5 +102,8 @@
 	- Static and Dynamic Execution
 	- Input and output formatting
 	- TypeCasting [int->float in dynamic vice-versa but not for float to int]
-	
-  
+# 09-06-2020:
+	- Conditional Statments with examples
+	- if
+	- if-else
+	- Nested if
