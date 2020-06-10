@@ -107,3 +107,7 @@
 	- if
 	- if-else
 	- Nested if
+# 10-06-2020:
+	- elif
+	- Iterations like for and while
+	- Sample example on "for" with range functionality explanation
