@@ -111,3 +111,6 @@
 	- elif
 	- Iterations like for and while
 	- Sample example on "for" with range functionality explanation
+# 13-06-2020:
+	- While example based on forward and backward printing
+	- Reverse of a number example explanation
