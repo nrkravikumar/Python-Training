@@ -114,3 +114,6 @@
 # 13-06-2020:
 	- While example based on forward and backward printing
 	- Reverse of a number example explanation
+# 15-06-2020:
+	- While example on reverse logic to find the odd numbers or multiples of a given number
+	-Inner Loop concept with sample example
