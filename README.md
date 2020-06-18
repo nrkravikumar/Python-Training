@@ -117,3 +117,10 @@
 # 15-06-2020:
 	- While example on reverse logic to find the odd numbers or multiples of a given number
 	- Inner Loop concept with sample example
+# 16-06-2020:
+	- While example based on task explanation
+# 17-06-2020:
+	- Task Explanation
+# 18-06-2020:
+	- Hallow square,Diagonals Problem statements
+	- Inner loop concepts explanation with example
