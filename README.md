@@ -124,3 +124,6 @@
 # 18-06-2020:
 	- Hallow square,Diagonals Problem statements
 	- Inner loop concepts explanation with example
+# 19-06-2020:
+	- Sample Example on Inner loop concept with(conditional and jumping statements)
+	- Functions and its types with description
