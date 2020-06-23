@@ -127,3 +127,7 @@
 # 19-06-2020:
 	- Sample Example on Inner loop concept with(conditional and jumping statements)
 	- Functions and its types with description
+# 20-06-2020:
+	- Function types with sample examples on each type
+# 21-06-2020:
+	- Functional arguments types and its examples on each type
