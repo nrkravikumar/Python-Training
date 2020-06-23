@@ -132,3 +132,5 @@
 # 22-06-2020:
 	- Functional arguments types and its examples on each type
 	- Strings concepts explanation
+# 23-06-2020:
+	- String slicing concept explanation with sample example
