@@ -131,3 +131,4 @@
 	- Function types with sample examples on each type
 # 22-06-2020:
 	- Functional arguments types and its examples on each type
+	- Strings concepts explanation
