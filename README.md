@@ -134,3 +134,5 @@
 	- Strings concepts explanation
 # 23-06-2020:
 	- String slicing concept explanation with sample example
+# 25-06-2020:
+	- String methods with sample examples explanation
