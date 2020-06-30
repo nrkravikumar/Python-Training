@@ -136,3 +136,9 @@
 	- String slicing concept explanation with sample example
 # 25-06-2020:
 	- String methods with sample examples explanation
+# 27-06-2020:
+	- String methods on Boolean outputs i.e., isdecimal,isupper etc.,
+# 29-06-2020:
+	- List data structure overview on methods with sample examples on each
+# 30-06-2020:
+	- List remaining methods and tuple data structure overview on methods with sample examples on each 
