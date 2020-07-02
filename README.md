@@ -142,3 +142,5 @@
 	- List data structure overview on methods with sample examples on each
 # 30-06-2020:
 	- List remaining methods and tuple data structure overview on methods with sample examples on each 
+# 02-07-2020:
+	- Set description and its methods with sample examples on each
